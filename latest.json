@@ -1,0 +1,30 @@
+{
+    "schemaVersion":  1,
+    "product":  "Video Navigator",
+    "version":  "0.1.0-alpha.3",
+    "channel":  "alpha",
+    "publishedAt":  "2026-10-09T12:39:21Z",
+    "releaseUrl":  "https://github.com/labs-2611/video_navigator_install/releases/tag/v0.1.0-alpha.3",
+    "sourceCommit":  "1fd343082cf758aa1aa5fe28c00cd146c476a7fb",
+    "minimumWindowsVersion":  "10.0.19041",
+    "assets":  [
+                   {
+                       "kind":  "installer",
+                       "platform":  "windows",
+                       "architecture":  "x64",
+                       "fileName":  "VideoNavigator-0.1.0-alpha.3-win-x64-setup.exe",
+                       "url":  "https://github.com/labs-2611/video_navigator_install/releases/download/v0.1.0-alpha.3/VideoNavigator-0.1.0-alpha.3-win-x64-setup.exe",
+                       "bytes":  93896842,
+                       "sha256":  "0d52020d11f00527a8b0212da1eeea884a27164f73f070fd95caae000a4a2b0a"
+                   },
+                   {
+                       "kind":  "portable",
+                       "platform":  "windows",
+                       "architecture":  "x64",
+                       "fileName":  "VideoNavigator-0.1.0-alpha.3-win-x64-portable.zip",
+                       "url":  "https://github.com/labs-2611/video_navigator_install/releases/download/v0.1.0-alpha.3/VideoNavigator-0.1.0-alpha.3-win-x64-portable.zip",
+                       "bytes":  140869456,
+                       "sha256":  "ebaac8a7f422e0000adab547c0f262f651dab80b582c34208f541e8b5f10ad91"
+                   }
+               ]
+}
