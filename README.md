@@ -26,4 +26,4 @@ These test releases are unsigned. Windows may display an unknown-publisher notic
 
 Schema version 1 includes `product`, `version`, `channel` (`alpha` or `stable`), `publishedAt`, `releaseUrl`, `sourceCommit`, `minimumWindowsVersion`, and `assets`. Each asset records `kind` (`installer` or `portable`), `platform`, `architecture`, `fileName`, immutable `url`, `bytes`, and `sha256`. Future update clients should compare semantic versions, respect the release channel, and verify the checksum before installing. The current desktop app does not automatically check or install updates.
 
-Installer binaries belong in GitHub Release assets. This Git repository contains documentation and small metadata files; application source remains in the separate private source repository.
+Installer binaries are available as GitHub Release assets. This repository contains download documentation and update metadata.
