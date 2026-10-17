@@ -1,30 +1,30 @@
 {
     "schemaVersion":  1,
     "product":  "Video Navigator",
-    "version":  "0.1.0-alpha.5",
+    "version":  "0.1.0-alpha.8",
     "channel":  "alpha",
-    "publishedAt":  "2026-10-11T20:21:32Z",
-    "releaseUrl":  "https://github.com/labs-2611/video_navigator_install/releases/tag/v0.1.0-alpha.5",
-    "sourceCommit":  "a6611cb2ee39de172c6775e629101e1bc4679bbe",
+    "publishedAt":  "2026-10-17T22:55:04Z",
+    "releaseUrl":  "https://github.com/labs-2611/video_navigator_install/releases/tag/v0.1.0-alpha.8",
+    "sourceCommit":  "ff3ec0cad89c0f1a541c0fbdf8a3ac1cf080e593",
     "minimumWindowsVersion":  "10.0.19041",
     "assets":  [
                    {
                        "kind":  "installer",
                        "platform":  "windows",
                        "architecture":  "x64",
-                       "fileName":  "VideoNavigator-0.1.0-alpha.5-win-x64-setup.exe",
-                       "url":  "https://github.com/labs-2611/video_navigator_install/releases/download/v0.1.0-alpha.5/VideoNavigator-0.1.0-alpha.5-win-x64-setup.exe",
-                       "bytes":  93899941,
-                       "sha256":  "c22dfb4f0d7774d3648ba271911704e419adca52e0cd9fbf2acc63ff1b2c8d03"
+                       "fileName":  "VideoNavigator-0.1.0-alpha.8-win-x64-setup.exe",
+                       "url":  "https://github.com/labs-2611/video_navigator_install/releases/download/v0.1.0-alpha.8/VideoNavigator-0.1.0-alpha.8-win-x64-setup.exe",
+                       "bytes":  93910557,
+                       "sha256":  "b75546c000360de9550d4c69055a271ebb116d8645d426b37deadf2ac3090acc"
                    },
                    {
                        "kind":  "portable",
                        "platform":  "windows",
                        "architecture":  "x64",
-                       "fileName":  "VideoNavigator-0.1.0-alpha.5-win-x64-portable.zip",
-                       "url":  "https://github.com/labs-2611/video_navigator_install/releases/download/v0.1.0-alpha.5/VideoNavigator-0.1.0-alpha.5-win-x64-portable.zip",
-                       "bytes":  140872879,
-                       "sha256":  "3d2e3f64f40eea513c66143a048c8a896a399e677e34ee670d0941cc701ba8d4"
+                       "fileName":  "VideoNavigator-0.1.0-alpha.8-win-x64-portable.zip",
+                       "url":  "https://github.com/labs-2611/video_navigator_install/releases/download/v0.1.0-alpha.8/VideoNavigator-0.1.0-alpha.8-win-x64-portable.zip",
+                       "bytes":  140881533,
+                       "sha256":  "547f9c555a0804fd1489f6d677df20d5a2b435c6bf970809c365e9ca16d0a47c"
                    }
                ]
 }
